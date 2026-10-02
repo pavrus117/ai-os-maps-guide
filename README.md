@@ -272,6 +272,12 @@ On top of the Claude subscription I already pay for: the VPS (mine is a small Ho
 about $140 for two years on a Black Friday deal, so roughly $6 a month) and a few dollars a month
 of voice transcription. That's it. Check the live price before you buy; plans and deals change.
 
+## Ready-made dashboard interfaces
+
+Want the ready-made dashboard interfaces? They are available through the
+[paid Patreon Builder membership ($15/month)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453).
+The MAPS guide remains free.
+
 ---
 
 Made by Pav, Automation Orbit. More on YouTube: https://www.youtube.com/@pavrusovs
