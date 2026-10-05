@@ -12,6 +12,14 @@ subscription. The files they produce are plain markdown, so any LLM can read the
 you run a different agent on a different subscription, check that provider's terms first (see
 Card 2).
 
+## Ready-made dashboard interfaces
+
+Want the ready-made dashboard interfaces? They are available through the
+[paid Patreon Builder membership ($15/month)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453).
+The MAPS guide remains free.
+
+[![Current dashboard switching between six animated graph views with fictional sample data](assets/dashboard-current-views.gif)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453)
+
 ## MAPS
 
 | Letter | Layer | One line |
@@ -272,13 +280,6 @@ On top of the Claude subscription I already pay for: the VPS (mine is a small Ho
 about $140 for two years on a Black Friday deal, so roughly $6 a month) and a few dollars a month
 of voice transcription. That's it. Check the live price before you buy; plans and deals change.
 
-## Ready-made dashboard interfaces
-
-[![Current dashboard switching between six animated graph views with fictional sample data](assets/dashboard-current-views.gif)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453)
-
-Want the ready-made dashboard interfaces? They are available through the
-[paid Patreon Builder membership ($15/month)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453).
-The MAPS guide remains free.
 
 ---
 
