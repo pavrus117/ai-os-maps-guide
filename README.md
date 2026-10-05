@@ -274,6 +274,8 @@ of voice transcription. That's it. Check the live price before you buy; plans an
 
 ## Ready-made dashboard interfaces
 
+[![Current dashboard switching between six animated graph views with fictional sample data](assets/dashboard-current-views.gif)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453)
+
 Want the ready-made dashboard interfaces? They are available through the
 [paid Patreon Builder membership ($15/month)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453).
 The MAPS guide remains free.
