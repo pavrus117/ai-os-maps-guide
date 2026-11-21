@@ -18,6 +18,8 @@ Want the ready-made dashboard interfaces? They are available through the
 [paid Patreon Builder membership ($15/month)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453).
 The MAPS guide remains free.
 
+[See the dashboard in action](https://automationorbit.com/ai-os/?utm_source=github&utm_medium=referral&utm_campaign=aios&utm_content=maps_readme)
+
 [![Current dashboard switching between six animated graph views with fictional sample data](assets/dashboard-current-views.gif)](https://www.patreon.com/pavrus/posts/start-here-ai-os-170886453)
 
 ## MAPS
